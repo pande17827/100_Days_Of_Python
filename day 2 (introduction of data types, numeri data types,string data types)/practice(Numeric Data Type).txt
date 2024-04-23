@@ -1,0 +1,6 @@
+1. Write a Python program to add two integers.
+2. Calculate the area of a rectangle using its length and width.
+3. Calculate the result of raising a number to a power.
+4. Calculate the mean (average) of a list of numbers
+5.What is the complex data type in Python ?
+6.How do you create a complex number in Python?
